@@ -12,7 +12,7 @@ export default function Terminal() {
     about: "👋 Hi, I'm Pandurang Zure - A full-stack developer skilled in React, Python, and modern web tools.",
     contact: "📧 zurepandurang@gmail.com\n🔗 github.com/pzure | linkedin.com/in/pzure",
     clear: '',
-    skills: "Figma\nHTML\nCSS\nBootstrap\nTailwind\nSass\nJavaScript\nReact JS\nNext JS\nGSAP\nFirebase\nVite\nWebpack\nWordPress",
+    skills: "Figma\nHTML\nCSS\nBootstrap\nTailwind\nSass\nJavaScript\nReact JS\nNext JS\nGSAP\nFirebase\nVite\nWebpack\nWordPress\nGithub\nGit",
     
   };
 
